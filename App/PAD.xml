@@ -16,7 +16,7 @@
 		<State_Province></State_Province>
 		<City_Town>Debrecen</City_Town>
 		<Zip_Postal_Code>44576</Zip_Postal_Code>
-		<Address_1>Hungary, Debrecen, Balmazújvárosi út 14,</Address_1>
+		<Address_1>Hungary, Debrecen, Balmaz 14</Address_1>
 		<Address_2></Address_2>
 		<Company_WebSite_URL>https://loudkode.github.io/</Company_WebSite_URL>
 		<Contact_Info>
@@ -50,7 +50,7 @@
 		<Program_Release_Month>11</Program_Release_Month>
 		<Program_Release_Day>10</Program_Release_Day>
 		<Program_Release_Year>2019</Program_Release_Year>
-		<Program_Cost_Dollars></Program_Cost_Dollars>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Cost_Other_Code></Program_Cost_Other_Code>
 		<Program_Cost_Other></Program_Cost_Other>
 		<Program_Type>Freeware</Program_Type>
