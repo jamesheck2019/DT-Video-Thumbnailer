@@ -22,16 +22,16 @@
 		<Contact_Info>
 			<Contact_First_Name>James</Contact_First_Name>
 			<Contact_Last_Name>Heck</Contact_Last_Name>
-			<Contact_Email>JamesHeck2019@protonmail.com</Contact_Email>
+			<Contact_Email>jamesheck2019@protonmail.com</Contact_Email>
 			<Author_First_Name>James</Author_First_Name>
 			<Author_Last_Name>Heck</Author_Last_Name>
-			<Author_Email>JamesHeck2019@protonmail.com</Author_Email>
+			<Author_Email>jamesheck2019@protonmail.com</Author_Email>
 			<Contact_Phone></Contact_Phone>
 		</Contact_Info>
 		<Support_Info>
-			<Sales_Email>JamesHeck2019@protonmail.com</Sales_Email>
-			<Support_Email>JamesHeck2019@protonmail.com</Support_Email>
-			<General_Email>JamesHeck2019@protonmail.com</General_Email>
+			<Sales_Email>jamesheck2019@protonmail.com</Sales_Email>
+			<Support_Email>jamesheck2019@protonmail.com</Support_Email>
+			<General_Email>jamesheck2019@protonmail.com</General_Email>
 			<Sales_Phone></Sales_Phone>
 			<Support_Phone></Support_Phone>
 			<General_Phone></General_Phone>
@@ -61,7 +61,7 @@
 		<Program_Install_Support>No Install Support</Program_Install_Support>
 		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,Windows 8</Program_OS_Support>
 		<Program_Language>English</Program_Language>
-		<Program_Change_Info></Program_Change_Info>
+		<Program_Change_Info>-FIXED bug in output path</Program_Change_Info>
 		<Program_System_Requirements>Microsoft .NET Framework 4.5.2</Program_System_Requirements>
 		<Limitations></Limitations>
 		<Awards></Awards>
@@ -95,10 +95,10 @@
 	</Program_Info>
 	<Web_Info>
 		<Application_URLs>
-			<Application_Info_URL>https://github.com/jamesheck2019/DT-Video-Thumbnailer/wiki</Application_Info_URL>
+			<Application_Info_URL>http://github.com/jamesheck2019/DT-Video-Thumbnailer/wiki</Application_Info_URL>
 			<Application_Order_URL></Application_Order_URL>
-			<Application_Screenshot_URL>https://raw.githubusercontent.com/jamesheck2019/DT-Video-Thumbnailer/master/App/Screens/001.png</Application_Screenshot_URL>
-			<Application_Icon_URL>https://raw.githubusercontent.com/jamesheck2019/DT-Video-Thumbnailer/master/App/Screens/Movies.ico</Application_Icon_URL>
+			<Application_Screenshot_URL>https://raw.githubusercontent.com/jamesheck2019/DT-Video-Thumbnailer/master/App/Screens/001_800x600.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://raw.githubusercontent.com/jamesheck2019/DT-Video-Thumbnailer/master/App/Screens/icon.png</Application_Icon_URL>
 			<Application_XML_File_URL>https://raw.githubusercontent.com/jamesheck2019/DT-Video-Thumbnailer/master/App/PAD.xml</Application_XML_File_URL>
 			<Video_Link_1_URL></Video_Link_1_URL>
 			<Video_Link_2_URL></Video_Link_2_URL>
@@ -274,7 +274,7 @@
 		<site_url>http://software.submission.gsa-online.de/</site_url>
 		<site_description>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</site_description>
 		<site_site_title>DT Video Thumbnailer</site_site_title>
-		<site_site_url>https://github.com/jamesheck2019/DT-Video-Thumbnailer/wiki</site_site_url>
+		<site_site_url>http://github.com/jamesheck2019/DT-Video-Thumbnailer/wiki</site_site_url>
 		<site_keywords>video,thumbnail,multi,capture,preview</site_keywords>
 		<site_description_100>allows you to make thumbnails (caps, previews) of video files</site_description_100>
 		<site_description_250>DT Video Thumbnailer is an desktop application allows you to make thumbnails (caps, previews) of video files</site_description_250>
@@ -290,7 +290,7 @@
  Substitute black frames</site_description_450>
 		<site_contact_first_name>James</site_contact_first_name>
 		<site_contact_last_name>Heck</site_contact_last_name>
-		<site_contact_email>JamesHeck2019@protonmail.com</site_contact_email>
+		<site_contact_email>jamesheck2019@protonmail.com</site_contact_email>
 	</site>
 	<Download_Link_Points_To_Non_Binary_File>TRUE</Download_Link_Points_To_Non_Binary_File>
 	<OnlineShops>
