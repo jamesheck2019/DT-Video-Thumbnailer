@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>Y</CERTIFIED>
+    <CERTIFICATE_ID>CRT-4110649235AA</CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE>http://repository.appvisor.com/crt-4110649235aa</CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-9500FD823029</Company_UIN>
+    <Product_UIN>APP-4110649235AA</Product_UIN>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_String>GHSAuth</Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <Backlink></Backlink>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Search_String_Unique>GHSAuth</Search_String_Unique>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Company_Description></Company_Description>
+  </RoboSoft>
+  <Company_Info>
+    <PublisherID>pid-65001a80ff19</PublisherID>
+    <BrandID>bid-9500fd823029</BrandID>
+    <Company_Name>Mar-Kov Computer Systems</Company_Name>
+    <Country>Canada</Country>
+    <State_Province>ON</State_Province>
+    <City_Town>Toronto</City_Town>
+    <Zip_Postal_Code>M6A 1Z4</Zip_Postal_Code>
+    <Address_1>130 Bridgeland Avenue</Address_1>
+    <Address_2>Suite 111</Address_2>
+    <Company_WebSite_URL>http://www.mar-kov.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Alex</Contact_First_Name>
+      <Contact_Last_Name>Koves</Contact_Last_Name>
+      <Contact_Email>markov.pad@submitpad.org</Contact_Email>
+      <Author_First_Name>Alex</Author_First_Name>
+      <Author_Last_Name>Koves</Author_Last_Name>
+      <Author_Email>markov.pad@submitpad.org</Author_Email>
+      <Contact_Phone>416-633-4383</Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>markov.pad@submitpad.org</Sales_Email>
+      <Support_Email>markov.pad@submitpad.org</Support_Email>
+      <General_Email>markov.pad@submitpad.org</General_Email>
+      <Sales_Phone>416-633-4383</Sales_Phone>
+      <Support_Phone>416-633-4383</Support_Phone>
+      <General_Phone>416-633-4383</General_Phone>
+      <Fax_Phone>416-633-4383</Fax_Phone>
+    </Support_Info>
+    <LinkedinPage>http://www.linkedin.com/company/mar-kov-computer-systems</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/markovsystems</TwitterCompanyPage>
+    <FacebookCompanyPage>http://www.facebook.com/pages/Mar-Kov-Computer-Systems/204077302957123</FacebookCompanyPage>
+  </Company_Info>
+  <ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number></ASP_Member_Number>
+  </ASP>
+  <Program_Info>
+    <AppID>app-4110649235aa</AppID>
+    <Program_Name>GHSAuth</Program_Name>
+    <Program_Version>7.11.0.77.0</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2018</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Business::Vertical Market Apps</Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories>Business &amp; Finance :: Vertical Markets,Business &amp; Finance :: Misc. Business,Business &amp; Finance :: Inventory</Program_Categories>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,WinVista,WinVista x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Minor changes and fixes.</Program_Change_Info>
+    <Program_System_Requirements>Windows</Program_System_Requirements>
+    <Limitations>Branding, multi user access, and some other feature only enabled in paid version</Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>803840</File_Size_Bytes>
+      <File_Size_K>785</File_Size_K>
+      <File_Size_MB>0.77</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://ghsauth.com</Application_Info_URL>
+      <Application_Order_URL>http://ghsauth.com/pricing</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.ghsauth.com/s/ghsauthscreenshot2.png</Application_Screenshot_URL>
+      <Application_Icon_URL>http://repository.appvisor.com/images/ghsauth.jpg</Application_Icon_URL>
+      <Application_XML_File_URL>http://repository.appvisor.com/info/app-4110649235aa/GHSAuth_pad.xml</Application_XML_File_URL>
+      <Video_Link_1_URL>https://www.youtube.com/watch?v=5bgC_I5Fj-g</Video_Link_1_URL>
+      <Video_Link_2_URL>https://www.youtube.com/watch?v=YXlwDUf89Bk</Video_Link_2_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://cms.mar-kov.com/GhsManager/setup.exe</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>GHS, SDS, Safety, EH&amp;S, Compliant, Chemical</Keywords>
+      <Char_Desc_45>GHS compliant SDS and Safety Label Authoring</Char_Desc_45>
+      <Char_Desc_80>GHS compliant SDS and Safety Label Authoring Tool for Chemical Manufacturers</Char_Desc_80>
+      <Char_Desc_250>GHS compliant SDS and Safety Label Authoring Tool for Chemical Manufacturers is a tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents and Safety Labels.</Char_Desc_250>
+      <Char_Desc_450>GHS compliant SDS and Safety Label Authoring Tool for Chemical Manufacturers is a tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents and Safety Labels.  This tool will allow EH&amp;S staff to author and organize GHS data and generate SDS and Safety Label documents for your organization.</Char_Desc_450>
+      <Char_Desc_2000>GHS compliant SDS and Safety Label Authoring Tool for Chemical Manufacturers is a tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents and Safety Labels.
+
+This tool will allow EH&amp;S staff to author and organize GHS data and generate SDS and Safety Label documents for your organization.
+
+Feature include:
+- Author Safety Data Sheets (SDS) which conform to GHS standard formatting
+- Organize your organization's GHS records
+- SDS revision control and change tracking
+- Multiple languages (translation of data) supported
+- Built-in catalog of GHS hazard codes and precautionary phrases
+- Create user-defined library of phrases for easy document authoring
+
+Free and paid versions are available.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>The trial version of MySoftware can be freely distributed over the internet in an unchanged form</Distribution_Permissions>
+    <EULA>http://www.ghsauth.com/tos</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BlueSnap_Order_Page></Affiliates_BlueSnap_Order_Page>
+    <Affiliates_BlueSnap_Vendor_ID></Affiliates_BlueSnap_Vendor_ID>
+    <Affiliates_BlueSnap_Product_ID></Affiliates_BlueSnap_Product_ID>
+    <Affiliates_BlueSnap_Maximum_Commission_Rate></Affiliates_BlueSnap_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>Alex</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Koves</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>markov.pad@submitpad.org</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release>Mar-Kov GHSAuth provides GHS compliant Safety Data Sheet (SDS) and Safety Label authoring as an integrated part of Mar-Kov’s software suite.
+
+In addition, Mar-Kov has launched GHSAuth (http://ghsauth.com), a stand-alone authoring software. This software package is available in both free and paid versions.
+
+GHSAuth is a simple software tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents. The tool allows EH&amp;S staff to create/author and manage SDS documents and Safety Labels.
+
+Features include 
+
+Author Safety Data Sheets
+Author Safety Labels
+Specify all 16 required sections of an SDS, which includes predefined library of Hazard Phrases, Precautionary phrases, Pictograms.
+Revision control allows users to track changes
+Support multiple languages
+User defined libraries for all required sections allow for rapid authoring and translation
+
+
+Mar-Kov focuses on serving Process Manufacturers in a variety of industries including Paints and Coatings, Inks, Cosmetics, Pharmaceuticals and life sciences, Flavor and Fragrance, Chemicals, Adhesives, Sealants, Epoxy, Agrochemical, Fertilizer, Inks
+
+About Mar-Kov Computer Systems
+
+Mar-Kov Computer Systems provides process manufacturing and chemical inventory management solutions specifically designed for the Pharmaceuticals, Cosmetics, Flavor and Fragrance, Paints and Coatings, and Chemicals industries.
+
+For more information on Chemicals Management Systems, Inventory Software, Recipe and Formulations management, Laboratory Information Management, Electronic Dispensing, or other Mar-Kov software, please visit http://www.mar-kov.com.</Press_Release>
+    <Keywords>GHS, SDS, Chemical, Safety Data Sheet, Global Harmonized System, Software, Compliance, EH&amp;S, OSHA, Safety, Regulation, WHMIS, MSDS, GHS Software</Keywords>
+    <Headline>Mar-Kov Launches GHS (Global Harmonized Standard) Authoring Tool GHSAuth for Safety Data Sheet (SDS)</Headline>
+    <Summary>Mar-Kov has launched GHSAuth, a free GHS compliant Safety Data Sheet and Safety Label authoring tool for Chemical Manufacturers</Summary>
+    <Press_Release_Plain>Mar-Kov GHSAuth provides GHS compliant Safety Data Sheet (SDS) and Safety Label authoring as an integrated part of Mar-Kov’s software suite.
+
+In addition, Mar-Kov has launched GHSAuth (http://ghsauth.com), a stand-alone authoring software. This software package is available in both free and paid versions.
+
+GHSAuth is a simple software tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents. The tool allows EH&amp;S staff to create/author and manage SDS documents and Safety Labels.
+
+Features include 
+
+Author Safety Data Sheets
+Author Safety Labels
+Specify all 16 required sections of an SDS, which includes predefined library of Hazard Phrases, Precautionary phrases, Pictograms.
+Revision control allows users to track changes
+Support multiple languages
+User defined libraries for all required sections allow for rapid authoring and translation
+
+
+Mar-Kov focuses on serving Process Manufacturers in a variety of industries including Paints and Coatings, Inks, Cosmetics, Pharmaceuticals and life sciences, Flavor and Fragrance, Chemicals, Adhesives, Sealants, Epoxy, Agrochemical, Fertilizer, Inks
+
+About Mar-Kov Computer Systems
+
+Mar-Kov Computer Systems provides process manufacturing and chemical inventory management solutions specifically designed for the Pharmaceuticals, Cosmetics, Flavor and Fragrance, Paints and Coatings, and Chemicals industries.
+
+For more information on Chemicals Management Systems, Inventory Software, Recipe and Formulations management, Laboratory Information Management, Electronic Dispensing, or other Mar-Kov software, please visit http://www.mar-kov.com.</Press_Release_Plain>
+    <Related_URL>http://www.prweb.com/releases/2016/05/prweb13397169.htm</Related_URL>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title>GHSAuth GHS Compliant</Site_Site_Title>
+    <Site_Site_URL>http://ghsauth.com</Site_Site_URL>
+    <Site_Keywords>ghs, sds, software, safety data sheet, msds, authoring, compliance, safety, chemical, eh&amp;s, OSHA, global harmonized standard</Site_Keywords>
+    <Site_Description_100>GHS compliant SDS and Safety Label Authoring Tool</Site_Description_100>
+    <Site_Description_250>GHS compliant SDS and Safety Label Authoring Tool for Chemical Manufacturers is a tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents and Safety Labels.</Site_Description_250>
+    <Site_Description_450>GHS compliant SDS and Safety Label Authoring Tool for Chemical Manufacturers is a tool for authoring Global Harmonized Standard (GHS) compliant Safety Data Sheet (SDS) documents and Safety Labels.
+
+This tool will allow EH&amp;S staff to author and organize GHS data and generate SDS and Safety Label documents for your organization.</Site_Description_450>
+    <Site_Contact_First_Name>Alex</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Koves</Site_Contact_Last_Name>
+    <Site_Contact_Email>markov.pad@submitpad.org</Site_Contact_Email>
+  </Site>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>GHSAuth_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>https://cms.mar-kov.com/GhsManager/setup.exe</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>setup.exe</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
+</XML_DIZ_INFO>
